@@ -1,1 +1,2 @@
-npx --no -- commitlint --edit "$1"
+cd rescata_front_DM_ML
+npx --no -- commitlint --edit "../$1"
