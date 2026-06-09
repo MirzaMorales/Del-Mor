@@ -1,2 +1,4 @@
-cd rescata_front_DM_ML
-npx --no -- commitlint --edit "../$1"
+#!/usr/bin/env sh
+
+echo "======= HUSKY ESTÁ VIVO ======="
+exit 1
